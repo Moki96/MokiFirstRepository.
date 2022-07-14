@@ -1,0 +1,2 @@
+# MokiFirstRepository.
+Мой первый репозитарий
